@@ -16,7 +16,7 @@ Zeeshan Baig - Tuesdays and Thursday && Discord: Zee; GitHub: zeeshanbaig11
 
 Taibah Radwan – UNKNOWN && Discord: Tai; GitHub: UNKNOWN
 
-Mengyao Fan – Not available Tuesday Mornings but free most of the time based on schedule && Discord: Mengyao Fan; GitHub: MYFan07
+Mengyao Fan – Not available Thursday  Mornings but free most of the time based on schedule && Discord: Mengyao Fan; GitHub: MYFan07
 
 ## GitHub Access
 
