@@ -8,15 +8,15 @@ This is group name is relevant to our group because we are all creative individu
 
 ### Group Members Availability and Contact Info
 
-Delvin Salman - && Discord: Dely; GitHub: @delvinsalman
+Delvin Salman - Any day as long as it is scheduled && Discord: Dely; GitHub: @delvinsalman
 
 Halima Dairo - Tuesdays and Thursdays && Discord: Ms. SilStar; GitHub: SilverStormz
 
 Zeeshan Baig - Tuesdays and Thursday && Discord: Zee; GitHub: zeeshanbaig11
 
-Taibah Radwan – && Discord: Tai; GitHub:
+Taibah Radwan – UNKNOWN && Discord: Tai; GitHub: UNKNOWN
 
-Mengyao Fan – && Discord: Mengyao Fan; GitHub:
+Mengyao Fan – UNKNOWN && Discord: Mengyao Fan; GitHub: UNKNOWN
 
 ## GitHub Access
 
