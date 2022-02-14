@@ -20,4 +20,4 @@ Mengyao Fan – Not available Thursday  Mornings but free most of the time based
 
 ## GitHub Access
 
-Halima Dairo will have merge access on GitHub, however we will all learn how to use Git properly.
+Halima Dairo and Zeeshan Baig will have merge access on GitHub, however we will all learn how to use Git properly.
