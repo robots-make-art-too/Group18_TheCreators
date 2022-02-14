@@ -8,7 +8,7 @@ This is group name is relevant to our group because we are all creative individu
 
 ### Group Members Availability and Contact Info
 
-Delvin Salman - && Discord: Dely; GitHub:
+Delvin Salman - && Discord: Dely; GitHub: @delvinsalman
 
 Halima Dairo - Tuesdays and Thursdays && Discord: Ms. SilStar; GitHub: SilverStormz
 
