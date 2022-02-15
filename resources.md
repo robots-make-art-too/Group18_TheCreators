@@ -78,7 +78,9 @@ The following are just images of art that I think would be cool to show off if w
 5. https://www.youtube.com/watch?v=wPfODr2e5Xw – Goggle Chrome Developers going through talking about 3D, VR, and AR on the web and their WebXR APIs.
 
 ## Mengyao Fan
+  
 #Aesthetic
+  
 Some information can provide idea and inspiration：
 
 1.https://medium.muz.li/aesthetics-of-the-past-reacts-to-modern-digital-turmoil-extraordinary-graphic-design-trends-51a23e800cf7?gi=511155ee52f3
@@ -92,6 +94,7 @@ Some information can provide idea and inspiration：
 5.https://www.youtube.com/watch?v=IpGjbHs0qco 
 
 #Technical
+  
 1.https://www.youtube.com/watch?v=rfscVS0vtbw Python
   
 2.https://www.youtube.com/watch?v=ErwbkuMQi3k C4D Learning
