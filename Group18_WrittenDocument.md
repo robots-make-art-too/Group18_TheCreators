@@ -16,8 +16,8 @@ Zeeshan Baig - Tuesdays and Thursday && Discord: Zee; GitHub: zeeshanbaig11
 
 Taibah Radwan – UNKNOWN && Discord: Tai; GitHub: UNKNOWN
 
-Mengyao Fan – UNKNOWN && Discord: Mengyao Fan; GitHub: UNKNOWN
+Mengyao Fan – Not available Thursday Mornings but free most of the time based on schedule && Discord: Mengyao Fan; GitHub: MYFan07
 
 ## GitHub Access
 
-Halima Dairo will have merge access on GitHub, however we will all learn how to use Git properly.
+Halima Dairo and Zeeshan Baig will have merge access on GitHub, however we will all learn how to use Git properly.
