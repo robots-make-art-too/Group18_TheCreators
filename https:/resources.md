@@ -6,9 +6,10 @@ The following are just images of art that I think would be cool to show off if w
 2.https://society6.com/product/neon-skull-pixel-art_stretched-canvas
 <br>
 3.https://finearttutorials.com/guide/easy-oil-painting-ideas/
+<br>
 4.https://www.makerspaces.com/how-to-make-an-art-bot/
-5.https://www.google.com/search?q=art+robot&tbm=isch&ved=2ahUKEwjv0pityYD2AhW_g3IEHVdFCFIQ2-cCegQIABAA&oq=art+robot&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgAEEM6CAgAELEDEIMBOgQIABADOgcIABCxAxBDUKQGWPEZYIsbaABwAHgAgAFviAHzBpIBAzkuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=_QMLYq_gK7-HytMP14qhkAU&bih=942&biw=1920&rlz=1C1UEAD_enCA990CA990#imgrc=Fe2J08LSC7xUUM
-
+<br>
+5.https://news.artnet.com/art-world/robot-art-critic-berenson-436739
 
 ### Technical
 
