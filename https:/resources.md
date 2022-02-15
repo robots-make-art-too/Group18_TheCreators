@@ -2,7 +2,7 @@
 
 The following are just images of art that I think would be cool to show off if we wanted to actually create a digital gallery.
 
-1.https://www.google.com/search?q=art+pixel&rlz=1C1UEAD_enCA990CA990&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwihp66fyYD2AhWyxIUKHTV0CfIQ_AUoAXoECAEQAw&biw=1920&bih=942&dpr=1#imgrc=I8ZaNyw7jh7a1M
+1.http://griffineducationenterprises.com/blogcontent/how-to-successfully-teach-pixel-art-in-your-classroom
 2.https://www.google.com/search?q=art+pixel&rlz=1C1UEAD_enCA990CA990&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwihp66fyYD2AhWyxIUKHTV0CfIQ_AUoAXoECAEQAw&biw=1920&bih=942&dpr=1#imgrc=k4IIq6l_4NDThM
 3.https://www.google.com/search?q=art+oil+painting&rlz=1C1UEAD_enCA990CA990&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwiDwZesyYD2AhWPxYUKHfHJCvIQ_AUoAXoECAEQAw&biw=1920&bih=942&dpr=1#imgrc=JXkEFvvo4VE61M
 4.https://www.google.com/search?q=art+robot&tbm=isch&ved=2ahUKEwjv0pityYD2AhW_g3IEHVdFCFIQ2-cCegQIABAA&oq=art+robot&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgAEEM6CAgAELEDEIMBOgQIABADOgcIABCxAxBDUKQGWPEZYIsbaABwAHgAgAFviAHzBpIBAzkuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=_QMLYq_gK7-HytMP14qhkAU&bih=942&biw=1920&rlz=1C1UEAD_enCA990CA990#imgrc=ObAnIwwj4Y3yPM
