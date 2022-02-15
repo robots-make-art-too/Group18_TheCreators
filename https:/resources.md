@@ -13,6 +13,7 @@ The following are just images of art that I think would be cool to show off if w
 
 1.https://www.youtube.com/watch?v=GqgTwkTP6PM / Going thew how art can help with code and the image that is set by it.
 2.https://www.youtube.com/watch?v=6avJHaC3C2U / Also another video on the code of art, and how code can tell storys.
+<br>
 3.https://anna-carey.medium.com/the-art-of-code-236421a043a / How art is code, and the importance it servers.
 4.https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/ /Learning code in any form of it, would be helpfull.
 5.https://hourofcode.com/ca/learn / Place to look if one need to understand code more.
