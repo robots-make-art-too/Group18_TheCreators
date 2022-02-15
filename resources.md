@@ -56,3 +56,7 @@ The following are just images of art that I think would be cool to show off if w
 
 ## Taibah Radwan
 
+## Discussion
+
+Our group discussed that we will all include our links and resources and then review the different assets, inspirations, and links and discuss further in our discord group. We like the idea of using art and potentially creating our own through different ways of coding. How to display this art is a topic of discussion.
+
