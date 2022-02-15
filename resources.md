@@ -83,10 +83,14 @@ The following are just images of art that I think would be cool to show off if w
 Some information can 
 
 1.https://medium.muz.li/aesthetics-of-the-past-reacts-to-modern-digital-turmoil-extraordinary-graphic-design-trends-51a23e800cf7?gi=511155ee52f3
+  <br>
 2. https://owdt.com/the-digital-art-revolution/
+  <br>
 3. https://medium.com/digital-art-weekly/net-art-post-internet-art-new-aesthetics-the-fundamentals-of-art-on-the-internet-55dcbd9d6a5
+  <br>
 4. https://www.pinterest.ca/fabianreinhardt/modern-aesthetic/
-5. https://www.youtube.com/watch?v=IpGjbHs0qco （
+  <br>
+5. https://www.youtube.com/watch?v=IpGjbHs0qco 
 
 ### Technical
 1. https://www.youtube.com/watch?v=rfscVS0vtbw Python 
