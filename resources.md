@@ -7,7 +7,8 @@ These are different resources we will use for inspiration. Each person has provi
 ### Aesthetic
 Here are 5 pictures of art and ideas behind them I found to be helpfull and cool.
 
-1.http://griffineducationenterprises.com/blogcontent/how-to-successfully-teach-pixel-art-in-your-classroom 2.https://society6.com/product/neon-skull-pixel-art_stretched-canvas
+1.http://griffineducationenterprises.com/blogcontent/how-to-successfully-teach-pixel-art-in-your-classroom 
+2.https://society6.com/product/neon-skull-pixel-art_stretched-canvas
 3.https://finearttutorials.com/guide/easy-oil-painting-ideas/
 <br>
 4.https://www.makerspaces.com/how-to-make-an-art-bot/
