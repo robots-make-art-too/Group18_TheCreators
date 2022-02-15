@@ -4,7 +4,7 @@ These are different resources we will use for inspiration. Each person has provi
 
 ## Delvin Salman
 
-Aesthetic
+### Aesthetic
 Here are 5 pictures of art and ideas behind them I found to be helpfull and cool.
 
 1.http://griffineducationenterprises.com/blogcontent/how-to-successfully-teach-pixel-art-in-your-classroom 2.https://society6.com/product/neon-skull-pixel-art_stretched-canvas
@@ -12,7 +12,7 @@ Here are 5 pictures of art and ideas behind them I found to be helpfull and cool
 4.https://www.makerspaces.com/how-to-make-an-art-bot/
 5.https://news.artnet.com/art-world/robot-art-critic-berenson-436739
 
-Technical
+### Technical
 Here is another 5, of the techincal aspect of this in which i think can be helpfull as well when developing a project based of code.
 
 1.https://www.youtube.com/watch?v=GqgTwkTP6PM / Going thew how art can help with code and the image that is set by it. 2.https://www.youtube.com/watch?v=6avJHaC3C2U / Also another video on the code of art, and how code can tell storys.
