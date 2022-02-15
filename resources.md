@@ -3,9 +3,10 @@
 These are different resources we will use for inspiration. Each person has provided 5 asthetic and 5 technical resources.
 ## Mengyao Fan
 ### Aesthetic
-Some information can 
+Some information can provide idea and inspiration：
 
 1.https://medium.muz.li/aesthetics-of-the-past-reacts-to-modern-digital-turmoil-extraordinary-graphic-design-trends-51a23e800cf7?gi=511155ee52f3
+
 2. https://owdt.com/the-digital-art-revolution/
 
 3. https://medium.com/digital-art-weekly/net-art-post-internet-art-new-aesthetics-the-fundamentals-of-art-on-the-internet-55dcbd9d6a5
