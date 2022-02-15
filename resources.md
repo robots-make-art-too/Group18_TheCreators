@@ -93,9 +93,13 @@ Some information can provide idea and inspiration：
 
 #Technical
 1.https://www.youtube.com/watch?v=rfscVS0vtbw Python
+  
 2.https://www.youtube.com/watch?v=ErwbkuMQi3k C4D Learning
+  
 3.https://www.youtube.com/watch?v=W6NZfCO5SIk JAVA SCRIPT
+  
 4.https://www.youtube.com/watch?v=Q7AOvWpIVHU 3D Interactive
+  
 5.https://www.youtube.com/watch?v=2f_OZviPoww&t=1806s MAXMSP Work
 
 ## Taibah Radwan
