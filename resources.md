@@ -106,6 +106,21 @@ Some information can provide idea and inspiration：
 5.https://www.youtube.com/watch?v=2f_OZviPoww&t=1806s MAXMSP Work
 
 ## Taibah Radwan
+  
+#Aesthetic: 
+  
+1.https://customneon.com/
+
+2.https://90seconds.com/what-is/3d-modeling-artist/#:~:text=A%203D%20modeling%20artist%20is,years%2C%20typically%203%20or%20more.
+
+3.https://www.deviantart.com/topic/digital-art
+  
+4.https://www.behance.net/galleries/illustration/digital-art
+  
+5.https://constructible.trimble.com/construction-industry/2d-to-3d-models-entering-the-third-dimension
+
+#Technical
+  
 
 ## Discussion
 
