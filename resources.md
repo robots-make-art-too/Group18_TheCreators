@@ -119,7 +119,17 @@ Some information can provide idea and inspiration：
   
 5.https://constructible.trimble.com/construction-industry/2d-to-3d-models-entering-the-third-dimension
 
-#Technical
+#Technical:
+  
+1. https://www.youtube.com/watch?v=QnvN1dieIAU
+  
+2. https://www.youtube.com/watch?v=FUI7HEEz9B0
+  
+3. https://www.youtube.com/watch?v=QknL6PvIP3k
+  
+4. https://www.youtube.com/watch?v=x7X9w_GIm1s&list=RDCMUCsBjURrPoezykLs9EqgamOA&index=12
+  
+5. https://www.youtube.com/watch?v=jhEfT9YjLcU
   
 
 ## Discussion
