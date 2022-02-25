@@ -14,7 +14,7 @@ Halima Dairo - Tuesdays and Thursdays && Discord: Ms. SilStar; GitHub: SilverSto
 
 Zeeshan Baig - Tuesdays and Thursday && Discord: Zee; GitHub: zeeshanbaig11
 
-Taibah Radwan – UNKNOWN && Discord: Tai; GitHub: UNKNOWN
+Taibah Radwan – UNKNOWN && Discord: Tai; GitHub: Taibahrad
 
 Mengyao Fan – UNKNOWN && Discord: Mengyao Fan; GitHub: UNKNOWN
 
