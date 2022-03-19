@@ -18,3 +18,4 @@ Scanning, QR code, markers and etc.. We have all had the ability to work threw t
 - `General ideas for the project`
 - `Plans for the future and how to improve`
 - `More testing`
+- `Ways to improve for Phase 3`
