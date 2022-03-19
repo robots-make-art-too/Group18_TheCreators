@@ -18,15 +18,15 @@ Scanning, QR code, markers and etc.. We have all had the ability to work threw t
 
 ## Main Key Points
 
-- `Went threw AR`
-- `QR scanning`
-- `Local server`
-- `How to host a server`
-- `Collaboration on the project`
-- `General ideas for the project`
-- `Plans for the future and how to improve`
-- `More testing`
-- `Ways to improve for Phase 3`
+- Went threw AR
+- QR scanning
+- Local server
+- How to host a server
+- Collaboration on the project
+- General ideas for the project
+- Plans for the future and how to improve
+- More testing
+- Ways to improve for Phase 3
 
 
 ## Links
