@@ -1,4 +1,4 @@
-# GROUP DISCUSSION / PHASE 2
+# Group Discussion / (PHASE 2)
 
 
 Our group has had a discussion about what we did for Phase 2 and the futrure of what we will do and the plans we have for the project. Each group member has played,
