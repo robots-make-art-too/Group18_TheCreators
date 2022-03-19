@@ -23,7 +23,7 @@ Scanning, QR code, markers and etc.. We have all had the ability to work threw t
 
 ## Links
 
-Here are some links we used to help gives us a better idea of these topics.
+Here are some links we used to help give us a better idea on these topics.
 
 - https://goqr.me/qr-codes/type-qr-url.html
 - https://www.hostinger.com/tutorials/what-is-localhost
