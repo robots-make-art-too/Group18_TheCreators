@@ -10,7 +10,7 @@ Scanning, QR code, markers and etc.. We have all had the ability to work threw t
 
 ## Main Key Points
 
-- Went threw AR
+- 'Went threw AR'
 - QR scanning
 - Local server
 - How to host a server
