@@ -9,11 +9,11 @@ Scanning, QR code, markers and etc.. We have all had the ability to work threw t
 
 
 ## Roles
-- Delvin: Helped test wtih server and create.
-- Halima: Made the model that appears, also helped test and create.
-- Mengyao: Helped test and create.
-- Taibah: Helped test and create as well.
-- Zeeshan: Main helper to run and create, also made the marker for the code/scan.
+- `Delvin`: Helped test wtih server and create.
+- `Halima`: Made the model that appears, also helped test and create.
+- `Mengyao`: Helped test and create.
+- `Taibah`: Helped test and create as well.
+- `Zeeshan`: Main helper to run and create, also made the marker for the code/scan.
 
 
 ## Main Key Points
