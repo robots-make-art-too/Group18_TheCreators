@@ -8,7 +8,7 @@ are willing to learn, as Halima is good with the art based side and works very w
 Scanning, QR code, markers and etc.. We have all had the ability to work threw this up to a point and will continue to do so.
 
 
-# Roles
+## Roles
 - Delvin: Help test wtih server and create.
 - Halima: Made the model that appears, also helped test and create.
 - Mengyao: Help test and create.
