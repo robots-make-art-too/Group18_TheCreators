@@ -19,3 +19,13 @@ Scanning, QR code, markers and etc.. We have all had the ability to work threw t
 - `Plans for the future and how to improve`
 - `More testing`
 - `Ways to improve for Phase 3`
+
+
+## Links
+
+Here are some links we used to help gives us a better idea of these topics.
+
+- https://goqr.me/qr-codes/type-qr-url.html
+- https://www.hostinger.com/tutorials/what-is-localhost
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
+- https://eclass.yorku.ca/mod/resource/view.php?id=1428246
