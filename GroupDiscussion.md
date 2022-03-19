@@ -8,6 +8,14 @@ are willing to learn, as Halima is good with the art based side and works very w
 Scanning, QR code, markers and etc.. We have all had the ability to work threw this up to a point and will continue to do so.
 
 
+# Roles
+- Delvin: Help test wtih server and create.
+- Halima: Made the model that appears, also helped test and create.
+- Mengyao: Help test and create.
+- Taibah: Help test and create as well.
+- Zeeshan: Main helper to run and create, also made the marker for the code/scan.
+
+
 ## Main Key Points
 
 - `Went threw AR`
@@ -29,3 +37,6 @@ Here are some links we used to help give us a better idea on these topics.
 - https://www.hostinger.com/tutorials/what-is-localhost
 - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
 - https://eclass.yorku.ca/mod/resource/view.php?id=1428246
+
+
+
