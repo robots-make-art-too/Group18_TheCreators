@@ -1,7 +1,5 @@
-# Sample site for group projects
-
-Just a little site example
+# [Please Click Here To View Our Content](website/G18-creators.html)
 
 ## AR content
 
-[Our AR content](website/G18-creators.html)
+
