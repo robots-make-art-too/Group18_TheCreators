@@ -17,6 +17,12 @@
 		id="scene">
 			<a-assets>
 				<a-asset-item id="pinetree" src="./assets/models/PINETREE.obj"></a-asset-item>
+				<a-asset-item id="shovel" src="./assets/models/Shovel.obj"></a-asset-item>
+				<a-asset-item id="tree" src="./assets/models/Tree.obj"></a-asset-item>
+				<a-asset-item id="tree2" src="./assets/models/Tree2.obj"></a-asset-item>
+				<a-asset-item id="river" src="./assets/models/river.obj"></a-asset-item>
+				<a-asset-item id="lily" src="./assets/models/Flower_Lily.obj"></a-asset-item>
+				<a-asset-item id="orchid" src="./assets/models/Flower_Orchid.obj"></a-asset-item>				
 			</a-assets>
 			
 			<a-marker id="hiro-1" preset="hiro">
@@ -25,8 +31,12 @@
 				<a-entity id="example-gltf" position="0 0.5 0" rotation="0 180 0" scale="0.5 0.5 0.5" gltf-model="#example"></a-entity>
 			</a-marker>
 
-			<a-marker id="custom-1" type="pattern" url="./assets/markers/pattern-Tree.patt">
-				<a-entity id="pinetree-obj" position="0.5 0.5 0" scale="0.05 0.05 0.05" obj-model="obj: #pinetree;"></a-entity>
+			<a-marker id="custom-1" type="pattern" url="./assets/markers/pattern-PINEtree.patt">
+				<a-entity id="pinetree-obj" position="0.5 0.5 0" scale="50 50 50" obj-model="obj: #pinetree;"></a-entity>
+			</a-marker>
+
+			<a-marker id="custom-2" type="pattern" url="./assets/markers/pattern-shovel.patt">
+				<a-entity id="shovel-obj" position="0.5 0.5 0" scale="50 50 50" obj-model="obj: #shovel;"></a-entity>
 			</a-marker>
 
 			<a-entity camera></a-entity>
