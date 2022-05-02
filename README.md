@@ -2,8 +2,11 @@
 
 ## Our Group Is Known As `The Creators` And Here Is A Bit About It!
 
-
 This repository is made in regards to EECS 1720, group project in experiencing and exploring Ar, server hosting, QR codes, 3D Models and more. In this repository you will find such things such as our garden themed website and garden theme models that we have created. A user can click our live server link via the git-pages and use the deployment to view the website. As the user is there they can explore what we have made and did in regards to AR and scanning. A user can then use the marker models we have made and QR codes to be scan to explore and see what we have created with regards to our garden theme idea. You can also find the link to this here: https://robots-make-art-too.github.io/Group18_TheCreators/. Our group have done this idea of garden due to how we felt it can be something unique and cool to go hand and hand with models and Ar type things. We understood some things about AR, QR and so one and we knew that we can create something like this. But other then that, enjoy our website and content!
+
+# Link 
+
+Now, here is the link to our `git-pages` content: https://github.com/robots-make-art-too/Group18_TheCreators/tree/gh-pages
 
 ## Extra INFO
 
